@@ -16,17 +16,20 @@ Pengembangan lanjutan dari Profile App minggu 3. Aplikasi kini menggunakan arsit
 
 | Profile View | Edit Profile | Dark Mode |
 |---|---|---|
-| *(tambahkan screenshot)* | *(tambahkan screenshot)* | *(tambahkan screenshot)* |
+| <img width="879" height="978" alt="image" src="https://github.com/user-attachments/assets/190f74e5-e0e7-4d12-bf2b-8ebeefedb3e1" />
+ | <img width="881" height="972" alt="image" src="https://github.com/user-attachments/assets/63bb7008-a442-47df-a59d-6bdbe567573e" />
+| <img width="880" height="978" alt="image" src="https://github.com/user-attachments/assets/5fc1ef3f-ffd6-4fa7-a18e-486071ac2dba" />
+ |
 
 ---
 
 ## Fitur Aplikasi
 
 - Header abu-abu elegan dengan foto profil circular dan tombol edit
-- Statistik profil: **17 Proyek**, **IPK 4.00**, **6 Semester**
-- Tombol **Follow / Following** dengan toggle state
-- **Edit Profile** — form untuk mengubah nama dan bio
-- **Dark Mode Toggle** — switch untuk beralih tema terang/gelap
+- Statistik profil: 17 Proyek, IPK 4.00, 6 Semester
+- Tombol Follow / Following dengan toggle state
+- Edit Profile form untuk mengubah nama dan bio
+- Dark Mode Toggle switch untuk beralih tema terang/gelap
 - Informasi kontak: Email, Telepon, Lokasi, Website/GitHub
 - Daftar keahlian: Mobile Development, Data Management, Web Development
 
@@ -81,8 +84,8 @@ composeApp/src/commonMain/kotlin/org/example/project/
 | Composable | Deskripsi |
 |---|---|
 | `ProfileHeader` | Header gradient abu-abu, foto circular, nama, title, bio, tombol edit |
-| `EditProfileForm` | Form edit — **stateless**, menerima state dan callback dari ViewModel |
-| `LabeledTextField` | TextField reusable dan **stateless** — implementasi state hoisting |
+| `EditProfileForm` | Form edit stateless, menerima state dan callback dari ViewModel |
+| `LabeledTextField` | TextField reusable dan stateless implementasi state hoisting |
 | `StatItem` | Kartu angka statistik reusable (Proyek / IPK / Semester) |
 | `InfoItem` | Satu baris info: icon warna-warni + label + value |
 | `ProfileCard` | Container card dengan judul seksi, mendukung light/dark mode |

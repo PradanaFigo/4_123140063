@@ -16,9 +16,7 @@ Pengembangan lanjutan dari Profile App minggu 3. Aplikasi kini menggunakan arsit
 
 | Profile View | Edit Profile | Dark Mode |
 |---|---|---|
-| <img width="879" height="978" alt="image" src="https://github.com/user-attachments/assets/190f74e5-e0e7-4d12-bf2b-8ebeefedb3e1" />
- | <img width="881" height="972" alt="image" src="https://github.com/user-attachments/assets/63bb7008-a442-47df-a59d-6bdbe567573e" />
-| <img width="880" height="978" alt="image" src="https://github.com/user-attachments/assets/5fc1ef3f-ffd6-4fa7-a18e-486071ac2dba" />
+| <img width="879" height="978" alt="image" src="https://github.com/user-attachments/assets/190f74e5-e0e7-4d12-bf2b-8ebeefedb3e1" />| <img width="881" height="972" alt="image" src="https://github.com/user-attachments/assets/63bb7008-a442-47df-a59d-6bdbe567573e" />| <img width="880" height="978" alt="image" src="https://github.com/user-attachments/assets/5fc1ef3f-ffd6-4fa7-a18e-486071ac2dba" />
  |
 
 ---
